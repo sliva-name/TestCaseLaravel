@@ -21,7 +21,6 @@
        'resources/css/elefantFont.css',
        'resources/css/FontAwesome5Pro.css',
        'resources/css/jquery.fancybox.min.css',
-       'resources/css/owl.carousel.min.css',
        'resources/css/meanmenu.css',
        'resources/css/slick.css',
        'resources/js/vendor/jquery-3.5.1.min.js',
